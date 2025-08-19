@@ -9,8 +9,7 @@ The focus is on designing a **data model (star schema)** in Python and building 
 - **Power BI** → Dashboard creation & visualization  
 - **Star Schema** → Dimensional modeling with Fact & Dimension tables  
 
-**Dataset Size:** ~4 GB (sample data provided in repo; full dataset linked below)  
-
+**Dataset Size:** ~4 GB
 ---
 
 ## 🗂️ Data Modeling  
@@ -28,13 +27,14 @@ The focus is on designing a **data model (star schema)** in Python and building 
 ## 📊 Dashboard Highlights  
 
 ### 🔹 Executive Overview  
-<img width="659" height="368" alt="image" src="https://github.com/user-attachments/assets/cd1d8661-078d-4e4a-9b20-401d5752fabf" />
+<img width="1318" height="737" alt="Screenshot 2025-07-16 184145" src="https://github.com/user-attachments/assets/57f352eb-3230-4416-af00-e4d87e360afd" />
 
 ### 🔹 Retailer Analysis  
-<img width="660" height="370" alt="image" src="https://github.com/user-attachments/assets/33a03f90-c472-4a1b-88a2-2a75424dd7ea" />
+<img width="1320" height="739" alt="Screenshot 2025-07-16 183917" src="https://github.com/user-attachments/assets/4a0d88e8-cc4a-4ec2-be48-d45098d4ca01" />
 
 ### 🔹 Category-Wise Analysis  
-<img width="658" height="369" alt="image" src="https://github.com/user-attachments/assets/0ee1fca5-f5f0-4e78-b72d-1a4c91c374f6" />
+<img width="1316" height="738" alt="Screenshot 2025-07-16 184310" src="https://github.com/user-attachments/assets/70b65e69-ed8a-4ae9-8630-dd4b588cf224" />
+
 ---
  
 
